@@ -4,7 +4,7 @@
 ![Semestre](https://img.shields.io/badge/Semestre-1.º_Semestre-blueviolet?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-En_Progreso-success?style=for-the-badge)
 
-> Repositorio personal dedicado a documentar mis prácticas, durante el **primer semestre de Ingeniería en Cómputo**.
+> Repositorio personal dedicado a documentar mis prácticas, durante el **primer semestre de Ingeniería en Cómputo** en la materia de **fundamentos de programación**.
 
 ---
 
