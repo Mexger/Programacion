@@ -8,5 +8,4 @@ for numero in range (2, 2000000):
             break
     if divisor == 0:
         suma= suma + numero 
-
 print("tu número sumado es:", suma)
