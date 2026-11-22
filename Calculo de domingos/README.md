@@ -51,4 +51,5 @@ Posterior a esto, una vez conociendo si el año tiene 366 o 365 dias se crea una
 
 Finalmente se imprime el total de días en los cuales cayeron a principío de mes
 
+
     print("Domingos que cayeron en el primer dia del mes desde 1900, hasta 2000: ", cumplido)
