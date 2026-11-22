@@ -21,5 +21,4 @@ for año_final in range (1900, 2001):  ##Calcular entre el tiempo 1900 al 2000
         
         dia_actual = (dia_actual + elementos) % 7
 
-
 print("Domingos que cayeron en el primer dia del mes desde 1900, hasta 2000: ", cumplido)
