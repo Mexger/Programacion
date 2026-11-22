@@ -23,4 +23,5 @@ El segundo for sirve para comprobar si el numero es primo, para esto se divide p
 
 Posteriormente, una vez calculado todos los numeros primos, se imprimira.
 
+
     print("tu número sumado es:", suma)
