@@ -89,7 +89,7 @@ while True:
                     if apartado == 6:
                         break
 
-                    continuar = int(input("[1] = Volver al menu principal = \n[2] = Ingresar una nueva cantidad: "))
+                    continuar = int(input("\n\n[1] = Volver al menu principal  \n[2] = Ingresar una nueva cantidad: "))
 
                     if continuar == 1:
                         break
