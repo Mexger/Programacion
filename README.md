@@ -15,7 +15,8 @@
 | **01** | **Suma de Primos (< 2M)** | Optimización con raíz cuadrada (`** 0.5`), control con `break` | [`/01_primos`](./01_primos) | ✅ |
 | **02** | **Conjetura de Collatz** | Ciclos `while`, listas dinámicas (`.append()`), conteo con `len()` | [`/02_collatz`](./02_collatz) | ✅ |
 | **03** | **Cálculo de Domingos** | Aritmética modular (`%`), años bisiestos, ciclos anidados y listas | [`/03_domingos`](./03_domingos) | ✅ |
-| **04** | *Próxima práctica...* | *Por definir* | — | 🚧 |
+| **04** | *Gestor de gastos* | Almacenaje mediante "diccionarios" | [`/04_gestor_de_gastos`](./04_gestor_de_gastos) | ✅ |
+| **05** | *Próxima práctica...* | *Por definir* | — | 🚧 |
 
 ---
 
